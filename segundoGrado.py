@@ -1,5 +1,5 @@
 #Autor: Patricia Zaragoza Palma
-# Ingenieria en Sistemas Computacionales
+#Carrera: Ingenieria en Sistemas Computacionales
 
 import tkinter as tk
 from tkinter import messagebox
